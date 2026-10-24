@@ -1,7 +1,7 @@
 {
-  "webVersion": "0.0.45",
+  "webVersion": "0.0.46",
   "nativeMinVersion": "1.0",
-  "package": "https://github.com/KozeiroKodak/pmcoletas-ota/releases/download/ota-web-0.0.45/pmcoletas-web-0.0.45.zip",
-  "sha256": "3753ad259d791f7bc31fdb9e4e39f9ff944ddcc338fbdab4aafef2bcccad11b4",
+  "package": "https://github.com/KozeiroKodak/pmcoletas-ota/releases/download/ota-web-0.0.46/pmcoletas-web-0.0.46.zip",
+  "sha256": "ad16de67c438c3efed2ce9648f4780d92a411c667d3607a42911520ef65a6371",
   "mandatory": false
 }
